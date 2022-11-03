@@ -1,0 +1,52 @@
+[
+    {
+        "name":"Ice",
+        "img":"ice.png",
+        "description":"Just a little bit of ice..."
+    },
+    {
+        "name":"Vampire in the moonlight",
+        "img":"vampire.png",
+        "description":"Just a little vampire"
+    },
+    {
+        "name":"Vortex",
+        "img":"vortex.png",
+        "description":"Just a pretty little harmless mermaid and her pet eel.."
+    },
+    {
+        "name":"Woodland creature",
+        "img":"woodland.png",
+        "description":"A cute creature with a luscious hair."
+    },
+    {
+        "name":"Brain on strike",
+        "img":"strajk.png",
+        "description":"No worries, brain. You're still a good boy."
+    },
+    {
+        "name":"Embraced by madness",
+        "img":"ludilo.png",
+        "description":"Just being crazy sometimes.."
+    },
+    {
+        "name":"Personality",
+        "img":"personality.png",
+        "description":"A drawing inspired by a funny story how a certain mother describes her children... 'My eldest daughter is very beautiful, the youngest is sooo cute, and the middle one.. well,she has a good personality. ' :D "
+    },
+    {
+        "name":"Ninja",
+        "img":"ninja.png",
+        "description":"A quick sketch of a ninja."
+    },
+    {
+        "name":"Shiny warrior",
+        "img":"shiny.png",
+        "description":"Just a regular pretty glow-in-the-dark warrior.. "
+    },
+    {
+        "name":"Purple lady",
+        "img":"purple.png",
+        "description":"Purple lady whom I don't know how to describe. Pretty awesome, though."
+    }
+]
